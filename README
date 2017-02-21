@@ -1,0 +1,12 @@
+README
+
+Instalación UMS
+
+
+http://www.fosshub.com/Universal-Media-Server.html/UMS-6.5.3-Java7.tgz 
+
+tar -zxvf UMS-6.5.3-Java8.tgz 
+
+cd ums-6.5.3/
+
+./UMS.sh
